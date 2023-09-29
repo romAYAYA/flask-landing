@@ -1,0 +1,17 @@
+.form-signin {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  gap: 10px;
+}
+
+.main-block {
+  padding: 0 20px;
+}
